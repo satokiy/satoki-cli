@@ -1,0 +1,3 @@
+module SatokiCli
+  VERSION = "0.1.0"
+end

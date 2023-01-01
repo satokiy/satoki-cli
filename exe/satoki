@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "satoki_cli"
+SatokiCli::Cli.start
