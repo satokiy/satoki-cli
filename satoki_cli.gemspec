@@ -41,5 +41,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency 'thor'
   spec.add_development_dependency 'dotenv'
+  spec.add_development_dependency 'color_echo'
 
 end
